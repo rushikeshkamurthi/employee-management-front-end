@@ -1,6 +1,8 @@
 # Employee Management FrontEnd using Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+## Deployed On heroku. To see demo click on linke below actual 
+https://truly-contacts.herokuapp.com/
 
 ## Development server
 
